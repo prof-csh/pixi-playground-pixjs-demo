@@ -1,0 +1,11 @@
+{
+  "name": "pixi-playground",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "url": "0.11.0",
+    "path": "0.12.7",
+    "howler": "2.0.14",
+    "pixi.js": "4.8.1"
+  }
+}
